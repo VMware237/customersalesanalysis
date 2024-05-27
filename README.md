@@ -44,5 +44,5 @@ The Customer Sales Analysis project was a strategic initiative designed to refin
 - Successfully delivered a suite of Power BI dashboards providing daily updates on critical sales metrics.
 - Streamlined the sales analysis process and provided the groundwork for enhanced strategic decision-making based on real-time, actionable insights.
 
-**Website** : https://vaishnavimhaske237.wordpress.com/about/?frame-nonce=df188f5fc0
+**Website** : https://vaishnavimhaske237.wordpress.com/about/?frame-nonce=df188f5fc0 <br>
 **Power BI Dashboard Link** : https://app.powerbi.com/groups/me/reports/908e6a1c-5a76-4069-b080-3b1f1c9bb4fa/ReportSection?ctid=17dcb00c-6941-4050-b69e-bd7eb8951712&clientSideAuth=0&experience=power-bi
