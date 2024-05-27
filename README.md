@@ -30,7 +30,8 @@ The Customer Sales Analysis project was a strategic initiative designed to refin
 ### Enhanced Decision-Making Tools
 - **Action**: Empowered decision-makers with actionable insights through visualizations.
 - **Outcome**: Simplified complex datasets, highlighting key areas for operational improvement and strategic alignment.
-
+<img width="1470" alt="Screenshot 2024-05-27 at 7 43 51 PM" src="https://github.com/VMware237/customersalesanalysis/assets/159841485/1fea0e36-dd14-40c5-bef8-6710d44e615a">
+<img width="1470" alt="Screenshot 2024-05-27 at 7 46 25 PM" src="https://github.com/VMware237/customersalesanalysis/assets/159841485/01416101-19e4-406e-a3b2-1a479ec3c1a6">
 
 ## Prerequisites
 - SQL Server 2019
