@@ -31,6 +31,7 @@ The Customer Sales Analysis project was a strategic initiative designed to refin
 - **Action**: Empowered decision-makers with actionable insights through visualizations.
 - **Outcome**: Simplified complex datasets, highlighting key areas for operational improvement and strategic alignment.
 
+
 ## Prerequisites
 - SQL Server 2019
 - SQL Server Management Studio
@@ -44,3 +45,4 @@ The Customer Sales Analysis project was a strategic initiative designed to refin
 - Streamlined the sales analysis process and provided the groundwork for enhanced strategic decision-making based on real-time, actionable insights.
 
 **Website** : https://vaishnavimhaske237.wordpress.com/about/?frame-nonce=df188f5fc0
+**Power BI Dashboard Link** : https://app.powerbi.com/groups/me/reports/908e6a1c-5a76-4069-b080-3b1f1c9bb4fa/ReportSection?ctid=17dcb00c-6941-4050-b69e-bd7eb8951712&clientSideAuth=0&experience=power-bi
